@@ -149,3 +149,11 @@ Image('/content/Image6.png')
 
 ### SUMMARY
 #### From the facts shown above, it can be inferred that poverty has always existed in at least 2% of the population, whether in a multidimensional or individual setting. According to Global Finance Magazine, the world's poorest countries include the Central African Republic, Congo, Democratic Republic of the Congo, Malawi, Liberia, Burundi, Niger, Ecuador, and Eritrea. Furthermore, when the individual multidimensional poverty index was taken into account, the female percentage was around 88 percent, with the percentage gradually decreasing by 2014.
+
+References: 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2528796/
+
+https://poverty.ucdavis.edu/poverty-news
+
+https://www.usnews.com/topics/subjects/poverty
